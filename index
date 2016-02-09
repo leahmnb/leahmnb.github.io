@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+    <head>
+        <title>Leah Boulos: Web Design and Architecture Portfolio</title>
+        <meta charset="utf-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <meta name="description" content="Leah Boulos' web design portfolio contains examples of the work she has done for INFO6620: Web
+            Design and Architecture at Dalhousie University."/>
+        <link href="reset.css"/>
+        <link href="stylesheet.css" rel="stylesheet" media="screen"/>
+        <link href='https://fonts.googleapis.com/css?family=Neuton:400,400italic,700,800' rel='stylesheet' type='text/css'/>
+        <link href='https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,400italic,700,700italic' rel='stylesheet' type='text/css'/>
+    </head>
+    <body>
+        <div id="container">
+            <header id="maintitle">
+                <h1>Web Design and Architecture Portfolio</h1>
+            </header>
+            <nav>
+                <ul id="mainnav">
+                    <li><a href="index.html">Portfolio Home</a></li>
+                    <li><a href="aboutportfolio.html">About the Portfolio</a></li>
+                </ul>
+            </nav>
+        <div id="content">
+                <h2>Welcome</h2>
+            <p id="intro">This portfolio contains examples of the work I’ve done for INFO6620: Web
+                Design and Architecture at Dalhousie University. I’m completing the course as part
+                of my Master of Library and Information Studies degree. I’ll be adding content as
+                the course progresses, so check back for updates in the coming weeks.</p>
+            <figure id="headshot">
+                <img src="headshot.jpg" alt="LeahBoulos" class="shadow" style="float:left;width:200px;border-style:solid;border-width:3px;border-color: #E93600;"/>
+                <figcaption>Image credit: Denique LeBlanc</figcaption>
+            </figure>
+            <h3>About Me: Leah Boulos</h3>
+            <p>I am a dynamic future graduate of Dalhousie’s Master of Library and
+                Information Studies Program. I come to the field with a background in music,
+                having completed my Bachelor of Music <em>summa cum laude</em> from Mount Allison
+                University in 2010. Upon entering the Dalhousie School of Information Management,
+                I quickly began to develop interests in health sciences librarianship, research
+                support services, and the management of information organisations. I was recently
+                awarded the prestigious Dalhousie Horrocks National Leadership Award. </p>
+            <p>Currently, I work as a student intern at the W.K. Kellogg Health Sciences Library
+                on Dalhousie campus. This excellent introduction to health sciences librarianship
+                has encouraged me to consider a career in the field. In particular, I am
+                interested in the role of librarians as respected leaders in the health sciences
+                research process. </p>
+            <p>Outside of the classroom, I am Co-Chair of the Dalhousie Journal of
+                Interdisciplinary Management, where I lead a team of students from all programs
+                within the Faculty of Management in the production of an annual open access journal
+                of graduate-level work. </p>
+            <p>In my spare time, I perform with the <a href="http://www.xara.ca/" target="_blank">Xara Choral
+                    Theatre Ensemble</a>, which was named the top women’s choir in Canada in 2013
+                and was recently nominated for an East Coast Music Award. My other hobbies include
+                cooking, cross stitching, and travelling. </p>
+            <h4>Contact Me</h4>
+            <p>Feel free to reach out to me via email: <a href="mailto:leahboulos@dal.ca">leah.boulos@dal.ca</a></p>
+        </div>
+            <div id="footer">
+                Copyright © Leah Boulos, 2016
+            </div>
+        </div>
+    </body>
+</html>
